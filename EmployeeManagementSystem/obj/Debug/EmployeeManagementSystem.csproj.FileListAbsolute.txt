@@ -1,0 +1,14 @@
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EmployeeForm.resources
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.DashBord.resources
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Login.resources
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EmployeeList.resources
+D:\MVC_pg\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.EditForm.resources
